@@ -1,2 +1,1 @@
-# BetterReactNative-Docs
-# BetterReactNative-Docs
+# Better react Native Docs :)
